@@ -2,12 +2,6 @@ header, footer {
 	text-align: center;
 }
 
-body {
-	background-image: url('./resources/opera.jpg');
-	background-repeat: no-repeat;
-	background-size: cover;
-  }
-
 main {
 	display: flex;
 	flex-wrap: wrap;
@@ -23,19 +17,23 @@ h2 {
 	margin-bottom: 10px;
 }
 
-.social-link {
+button {
 	display: block;
 	margin-bottom: 20px;
-	box-shadow: 0 0 10px rgba(0,0,0,0.5);
+	height: 100px;
+	width: 100px;
+	border-radius: 50%;
+	border: 1px solid #000;
+	background-color: #b5d8a8;
 }
 
 .button-logo {
 	display: flex;
-	width: 100px;
+	justify-content: center;
+	align-items: center;
 	height: auto;
+	width: 100px;
 }
 
-.darkener {
-	width: 100%;
-	background-color: rgba(255, 255, 255, 0.5);
-}
+
+
