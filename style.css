@@ -48,7 +48,7 @@ h2 {
 	box-shadow: 0 0 10px rgba(0,0,0,0.5);
 	padding: 10px;
 	text-align: center;
-	height: 140px;
+	height: 145px;
 }
 
 .social-link:hover {
@@ -59,7 +59,7 @@ h2 {
 
 .button-logo {
 	display: flex;
-	width: 100px;
+	width: 110px;
 	height: auto;
 }
 
