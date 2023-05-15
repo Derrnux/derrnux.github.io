@@ -5,7 +5,7 @@ header, footer {
 footer {
 	position: absolute;
 	bottom: 0;
-	width: 100%;
+	width: 60%;
 	margin-left: 20%;
 	margin-right: 20%;
 }
@@ -13,7 +13,7 @@ footer {
 body {
 	background-image: url('./resources/opera.jpg');
 	background-repeat: no-repeat;
-	background-size:0cqi
+	background-size: cover;
   }
 
 main {
@@ -36,6 +36,7 @@ h2 {
 	margin-bottom: 20px;
 	box-shadow: 0 0 10px rgba(0,0,0,0.5);
 	padding: 10px;
+	text-align: center;
 }
 
 .button-logo {
