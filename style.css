@@ -5,6 +5,7 @@ header, footer {
 footer {
     padding: 0px 10px 0px 10px;
 	background-color: rgba(255, 255, 255, 0.5);
+	border-radius: 10px;
 	position: fixed;
 	right: 1;
 	bottom: 0;
@@ -28,6 +29,13 @@ section {
 	max-width: 400px;
 }
 
+h1 {
+	color: white;
+	font-family: monospace;
+	background-color: rgb(46 35 27);
+	border-radius: 10px;
+}
+
 h2 {
 	margin-bottom: 10px;
 	margin-top: 0px;
@@ -36,7 +44,8 @@ h2 {
 .social-link {
 	display: block;
 	margin-bottom: 20px;
-	background-color: rgba(255, 255, 255, 0.5);
+    background-color: rgba(255, 255, 255, 0.75);
+	border-radius: 10px;
 	box-shadow: 0 0 10px rgba(0,0,0,0.5);
 	padding: 10px;
 	text-align: center;
