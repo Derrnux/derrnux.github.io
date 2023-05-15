@@ -3,18 +3,18 @@ header, footer {
 }
 
 footer {
-	position: absolute;
-	bottom: 0;
-	width: 60%;
-	margin-left: 20%;
-	margin-right: 20%;
+    padding: 0px 10px 0px 10px;
+	background-color: rgba(255, 255, 255, 0.5);
+	position: fixed;
+	right: 1;
 }
 
 body {
 	background-image: url('./resources/opera.jpg');
 	background-repeat: no-repeat;
-	background-size: cover;
-  }
+	background-size: auto;
+	background-position: top;  
+}
 
 main {
 	display: flex;
@@ -29,11 +29,13 @@ section {
 
 h2 {
 	margin-bottom: 10px;
+	margin-top: 0px;
 }
 
 .social-link {
 	display: block;
 	margin-bottom: 20px;
+	background-color: rgba(255, 255, 255, 0.5);
 	box-shadow: 0 0 10px rgba(0,0,0,0.5);
 	padding: 10px;
 	text-align: center;
@@ -46,6 +48,10 @@ h2 {
 }
 
 .darkener {
-	width: 100%;
-	background-color: rgba(255, 255, 255, 0.5);
+    background-color: rgba(255, 255, 255, 0.5);
+	width: -moz-fit-content;
+    width: fit-content;
+    margin: auto;
+    padding-right: 10px;
+    padding-left: 10px;
 }
