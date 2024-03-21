@@ -1,4 +1,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
+    <loc>https://drnx.de/cocktails/Cocktails/Cocktails</loc>
+    <lastmod>2024-03-21T12:48:23.044Z</lastmod>
+  </url><url>
     <loc>https://drnx.de/cocktails/Cocktails/Rezepte/Current/Berry-Fun</loc>
     <lastmod>2024-03-20T18:56:18.451Z</lastmod>
   </url><url>
@@ -10,6 +13,9 @@
   </url><url>
     <loc>https://drnx.de/cocktails/Cocktails/Rezepte/Current/Daiquiri</loc>
     <lastmod>2024-03-20T18:56:18.476Z</lastmod>
+  </url><url>
+    <loc>https://drnx.de/cocktails/Cocktails/Rezepte/Current/Gr%C3%BCnschnabel</loc>
+    <lastmod>2024-03-20T18:56:18.529Z</lastmod>
   </url><url>
     <loc>https://drnx.de/cocktails/Cocktails/Rezepte/Current/Last-Word</loc>
     <lastmod>2024-03-20T18:56:18.484Z</lastmod>
@@ -35,8 +41,8 @@
     <loc>https://drnx.de/cocktails/Cocktails/Rezepte/Current/Whisky-Sour</loc>
     <lastmod>2024-03-20T18:56:18.519Z</lastmod>
   </url><url>
-    <loc>https://drnx.de/cocktails/Cocktails/Rezepte/Soon/Gr%C3%BCnschnabel</loc>
-    <lastmod>2024-03-20T18:56:18.529Z</lastmod>
+    <loc>https://drnx.de/cocktails/Cocktails/Rezepte/Rezepte</loc>
+    <lastmod>2024-03-21T11:40:21.868Z</lastmod>
   </url><url>
     <loc>https://drnx.de/cocktails/Cocktails/Rezepte/Soon/Margarita</loc>
     <lastmod>2024-03-20T18:56:18.532Z</lastmod>
@@ -68,56 +74,23 @@
     <loc>https://drnx.de/cocktails/Cocktails/Templates/Zutat-Template</loc>
     <lastmod>2024-03-20T18:56:18.621Z</lastmod>
   </url><url>
-    <loc>https://drnx.de/cocktails/Cocktails/Zutaten/Sonstige/Angostura-Aromatic-Bitters</loc>
-    <lastmod>2024-03-20T18:56:18.635Z</lastmod>
-  </url><url>
-    <loc>https://drnx.de/cocktails/Cocktails/Zutaten/Sonstige/Angostura-Orange-Bitters</loc>
-    <lastmod>2024-03-20T18:56:18.639Z</lastmod>
-  </url><url>
-    <loc>https://drnx.de/cocktails/</loc>
-    <lastmod>2024-03-20T18:40:13.373Z</lastmod>
-  </url><url>
-    <loc>https://drnx.de/cocktails/Cocktails/Zutaten/Untitled</loc>
-    <lastmod>2024-03-21T11:34:11.989Z</lastmod>
-  </url><url>
-    <loc>https://drnx.de/cocktails/Cocktails/Zutaten/Zutaten</loc>
-    <lastmod>2024-03-21T11:34:11.989Z</lastmod>
-  </url><url>
     <loc>https://drnx.de/cocktails/Cocktails/Zutaten/Bitters/Angostura-Aromatic-Bitters</loc>
     <lastmod>2024-03-20T18:56:18.635Z</lastmod>
   </url><url>
-    <loc>https://drnx.de/cocktails/Cocktails/Zutaten/Weinartig/Noilly-Prat-Original-Vermouth</loc>
-    <lastmod>2024-03-20T18:56:18.648Z</lastmod>
+    <loc>https://drnx.de/cocktails/Cocktails/Zutaten/Bitters/Angostura-Orange-Bitters</loc>
+    <lastmod>2024-03-20T18:56:18.639Z</lastmod>
   </url><url>
-    <loc>https://drnx.de/cocktails/Cocktails/Zutaten/Weinartig/PX-Sherry-V.O.S-20</loc>
-    <lastmod>2024-03-20T18:56:18.656Z</lastmod>
-  </url><url>
-    <loc>https://drnx.de/cocktails/Cocktails/Zutaten/Sonstige-Spirituosen/Aperol-Aperitivo</loc>
-    <lastmod>2024-03-20T18:56:18.666Z</lastmod>
-  </url><url>
-    <loc>https://drnx.de/cocktails/Cocktails/Zutaten/Sonstige-Spirituosen/Chartreuse-Verte</loc>
-    <lastmod>2024-03-20T18:56:18.678Z</lastmod>
-  </url><url>
-    <loc>https://drnx.de/cocktails/Cocktails/Zutaten/Sonstige-Spirituosen/Del-Maguey-Vida-Mezcal</loc>
-    <lastmod>2024-03-20T18:56:18.694Z</lastmod>
-  </url><url>
-    <loc>https://drnx.de/cocktails/Cocktails/Zutaten/Sonstige-Spirituosen/Sierra-Tequila-Plata</loc>
-    <lastmod>2024-03-20T18:56:18.725Z</lastmod>
-  </url><url>
-    <loc>https://drnx.de/cocktails/Cocktails/Zutaten/Sonstige-Spirituosen/Talisker-10-Years</loc>
-    <lastmod>2024-03-20T18:56:18.730Z</lastmod>
-  </url><url>
-    <loc>https://drnx.de/cocktails/Cocktails/Zutaten/Sonstige-Spirituosen/Woodford-Reserve-Bourbon</loc>
-    <lastmod>2024-03-20T18:56:18.742Z</lastmod>
-  </url><url>
-    <loc>https://drnx.de/cocktails/Cocktails/Zutaten/Lik%C3%B6re/Taylor's-Velvet-Falernum</loc>
-    <lastmod>2024-03-20T18:56:18.736Z</lastmod>
-  </url><url>
-    <loc>https://drnx.de/cocktails/Cocktails/Zutaten/Whisky/Maclean's-Nose</loc>
-    <lastmod>2024-03-20T18:56:18.718Z</lastmod>
+    <loc>https://drnx.de/cocktails/Cocktails/Zutaten/Gin/Bombay-London-Dry-Gin</loc>
+    <lastmod>2024-03-20T18:56:18.672Z</lastmod>
   </url><url>
     <loc>https://drnx.de/cocktails/Cocktails/Zutaten/Lik%C3%B6re/Chartreuse-Verte</loc>
     <lastmod>2024-03-20T18:56:18.678Z</lastmod>
+  </url><url>
+    <loc>https://drnx.de/cocktails/Cocktails/Zutaten/Lik%C3%B6re/Luxardo-Maraschino</loc>
+    <lastmod>2024-03-20T18:56:18.708Z</lastmod>
+  </url><url>
+    <loc>https://drnx.de/cocktails/Cocktails/Zutaten/Lik%C3%B6re/Taylor's-Velvet-Falernum</loc>
+    <lastmod>2024-03-20T18:56:18.736Z</lastmod>
   </url><url>
     <loc>https://drnx.de/cocktails/Cocktails/Zutaten/Rum/Havana-Club-Original-3J</loc>
     <lastmod>2024-03-20T18:56:18.705Z</lastmod>
@@ -125,21 +98,39 @@
     <loc>https://drnx.de/cocktails/Cocktails/Zutaten/Rum/Wray--and--Nephew-White-Overproof-Rum</loc>
     <lastmod>2024-03-20T18:56:18.749Z</lastmod>
   </url><url>
+    <loc>https://drnx.de/cocktails/Cocktails/Zutaten/Sonstige/Aperol-Aperitivo</loc>
+    <lastmod>2024-03-20T18:56:18.666Z</lastmod>
+  </url><url>
     <loc>https://drnx.de/cocktails/Cocktails/Zutaten/Sonstige/Cointreau-Triple-Sec</loc>
     <lastmod>2024-03-20T18:56:18.688Z</lastmod>
   </url><url>
-    <loc>https://drnx.de/cocktails/Cocktails/Zutaten/Gin/Bombay-London-Dry-Gin</loc>
-    <lastmod>2024-03-20T18:56:18.672Z</lastmod>
-  </url><url>
-    <loc>https://drnx.de/cocktails/Cocktails/Zutaten/Lik%C3%B6re/Luxardo-Maraschino</loc>
-    <lastmod>2024-03-20T18:56:18.708Z</lastmod>
+    <loc>https://drnx.de/cocktails/Cocktails/Zutaten/Sonstige/Del-Maguey-Vida-Mezcal</loc>
+    <lastmod>2024-03-20T18:56:18.694Z</lastmod>
   </url><url>
     <loc>https://drnx.de/cocktails/Cocktails/Zutaten/Sonstige/Grappa-della-Toscana</loc>
     <lastmod>2024-03-20T18:56:18.699Z</lastmod>
   </url><url>
-    <loc>https://drnx.de/cocktails/Cocktails/Rezepte/Untitled</loc>
-    <lastmod>2024-03-21T11:40:21.868Z</lastmod>
+    <loc>https://drnx.de/cocktails/Cocktails/Zutaten/Sonstige/Sierra-Tequila-Plata</loc>
+    <lastmod>2024-03-20T18:56:18.725Z</lastmod>
   </url><url>
-    <loc>https://drnx.de/cocktails/Cocktails/Rezepte/Rezepte</loc>
-    <lastmod>2024-03-21T11:40:21.868Z</lastmod>
+    <loc>https://drnx.de/cocktails/Cocktails/Zutaten/Weinartig/Noilly-Prat-Original-Vermouth</loc>
+    <lastmod>2024-03-20T18:56:18.648Z</lastmod>
+  </url><url>
+    <loc>https://drnx.de/cocktails/Cocktails/Zutaten/Weinartig/PX-Sherry-V.O.S-20</loc>
+    <lastmod>2024-03-20T18:56:18.656Z</lastmod>
+  </url><url>
+    <loc>https://drnx.de/cocktails/Cocktails/Zutaten/Whisky/Maclean's-Nose</loc>
+    <lastmod>2024-03-20T18:56:18.718Z</lastmod>
+  </url><url>
+    <loc>https://drnx.de/cocktails/Cocktails/Zutaten/Whisky/Talisker-10-Years</loc>
+    <lastmod>2024-03-20T18:56:18.730Z</lastmod>
+  </url><url>
+    <loc>https://drnx.de/cocktails/Cocktails/Zutaten/Whisky/Woodford-Reserve-Bourbon</loc>
+    <lastmod>2024-03-20T18:56:18.742Z</lastmod>
+  </url><url>
+    <loc>https://drnx.de/cocktails/Cocktails/Zutaten/Zutaten</loc>
+    <lastmod>2024-03-21T11:34:11.989Z</lastmod>
+  </url><url>
+    <loc>https://drnx.de/cocktails/</loc>
+    <lastmod>2024-03-20T18:40:13.373Z</lastmod>
   </url></urlset>
